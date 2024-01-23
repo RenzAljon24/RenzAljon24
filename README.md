@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm Currently learning Front end web development
-
+Hello, World! I'm Renz Aljon Cruz, a creative web designer and developer. My passion lies in crafting extraordinary experiences on the web. Let's build something amazing together! 🚀💻
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100066723944685) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rarc_0524) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renz-aljon-cruz-ba13bb286?) 
